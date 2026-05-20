@@ -7,4 +7,7 @@ description: 'Profile for Wabash National in the API Evangelist network. Fortune
 created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.19'
+common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/wabash
 apis: []
