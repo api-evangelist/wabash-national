@@ -17,7 +17,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/wabash-nat
 description: 'Profile for Wabash National in the API Evangelist network. Fortune F1000 (rank 913).'
 created: '2026-05-05'
 modified: '2026-05-05'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/wabash
